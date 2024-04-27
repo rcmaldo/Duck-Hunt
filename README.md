@@ -1,4 +1,4 @@
 # Duck-Hunt
-First ever coded game, very basic, from 10 years ago.
+My first ever coded Flash game, very basic, from 2010.
 
-Basically my first taste with programming and game development. Features include: reloading, screen scrolling, pause menu with changable music tracks.
+My first taste with self-taught programming and game development. Features include: reloading, screen scrolling, pause menu with changable music tracks.
